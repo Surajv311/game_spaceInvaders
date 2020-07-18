@@ -1,1 +1,3 @@
-# game_spaceInvaders
+# spaceInvaders game using html-css-js
+
+
